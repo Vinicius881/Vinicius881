@@ -7,7 +7,7 @@
 <div align="left">
   <a href="https://github.com/Vinicius881">
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Vinicius881&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" alt="Vini-pic" height="300" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Vini-pic" height="200" style="border-radius:50px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
   
